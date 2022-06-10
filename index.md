@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: "Welcome to my website"
+date: 2022-01-01
 ---
 
